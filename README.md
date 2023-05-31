@@ -64,7 +64,12 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
+<br>
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Quanghai17&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Quanghai17&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Quanghai17&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
@@ -72,13 +77,7 @@
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hins.hanh) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/search?q=tuan%20hung%20khac%20biet%20cover&t=1684288702034) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCsas5_RkgonLsxSvCN63C7g) 
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Quanghai17&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Quanghai17&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Quanghai17&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
